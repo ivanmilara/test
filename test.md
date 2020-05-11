@@ -28,8 +28,8 @@ modified on Apr 10, 2018
 
 <div class="toc-macro rbtoc1589210689727">
 
-  - [Intro](#Intro)
-  - [Components](#Components)
+  - [Intro](#Infraredcamerawithlivestreaming-Intro)
+  - [Components](#Infraredcamerawithlivestreaming-Components)
   - [Installing
     raspbian](#Infraredcamerawithlivestreaming-Installingraspbian)
   - [Configuring raspbian for first
