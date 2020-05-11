@@ -24,9 +24,9 @@ modified on Apr 10, 2018
   - [Intro](#Intro)
   - [Components](#Components)
   - [Installing
-    raspbian](#Installing raspbian)
+    raspbian](#Installing-raspbian)
   - [Configuring raspbian for first
-    time](#Configuring raspbian for first time)
+    time](#Configuring-raspbian-for-first-time)
       - [Configuring
         WiFi](#ConfiguringWiFi)
       - [Enabling camera and ssh. Restarting in CLI (cli
