@@ -28,22 +28,22 @@ modified on Apr 10, 2018
   - [Configuring raspbian for first
     time](#Configuring-raspbian-for-first-time)
       - [Configuring
-        WiFi](#ConfiguringWiFi)
+        WiFi](#Configuring-WiFi)
       - [Enabling camera and ssh. Restarting in CLI (cli
-        interface)](#Enablingcameraandssh.RestartinginCLI\(cliinterface\))
-  - [Checking Camera](#CheckingCamera)
+        interface)](#Enabling-camera-and-ssh.RestartinginCLI\(cliinterface\))
+  - [Checking Camera](#Checking-Camera)
   - [Creating live stream in
-    Youtube](#CreatinglivestreaminYoutube)
+    Youtube](#Creating-live-stream-in-Youtube)
   - [Start streaming from your
-    Pi](#StartstreamingfromyourPi)
+    Pi](#Start-streaming-from-your-Pi)
   - [Other
-    improvements](#Otherimprovements)
+    improvements](#Other-improvements)
       - [Start the application when raspberry
-        boots](#Starttheapplicationwhenraspberryboots)
+        boots](#Start-the-application-when-raspberry-boots)
       - [Get IP address by email (dynamic ip
-        networks)](#GetIPaddressbyemail\(dynamicipnetworks\))
+        networks)](#Get-IPaddress-by-email\(dynamicipnetworks\))
       - [Communicating with your raspberry pi
-        remotely ](#Communicatingwithyourraspberrypiremotely)
+        remotely ](#Communicating-with-your-raspberrypi-remotely)
 
 </div>
 
