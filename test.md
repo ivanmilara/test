@@ -21,29 +21,29 @@ modified on Apr 10, 2018
 
 <div class="toc-macro rbtoc1589210689727">
 
-  - [Intro](#Infraredcamerawithlivestreaming-Intro)
-  - [Components](#Infraredcamerawithlivestreaming-Components)
+  - [Intro](#Intro)
+  - [Components](#Components)
   - [Installing
-    raspbian](#Infraredcamerawithlivestreaming-Installingraspbian)
+    raspbian](#Installingraspbian)
   - [Configuring raspbian for first
-    time](#Infraredcamerawithlivestreaming-Configuringraspbianforfirsttime)
+    time](#Configuringraspbianforfirsttime)
       - [Configuring
-        WiFi](#Infraredcamerawithlivestreaming-ConfiguringWiFi)
+        WiFi](#ConfiguringWiFi)
       - [Enabling camera and ssh. Restarting in CLI (cli
-        interface)](#Infraredcamerawithlivestreaming-Enablingcameraandssh.RestartinginCLI\(cliinterface\))
-  - [Checking Camera](#Infraredcamerawithlivestreaming-CheckingCamera)
+        interface)](#Enablingcameraandssh.RestartinginCLI\(cliinterface\))
+  - [Checking Camera](#CheckingCamera)
   - [Creating live stream in
-    Youtube](#Infraredcamerawithlivestreaming-CreatinglivestreaminYoutube)
+    Youtube](#CreatinglivestreaminYoutube)
   - [Start streaming from your
-    Pi](#Infraredcamerawithlivestreaming-StartstreamingfromyourPi)
+    Pi](#StartstreamingfromyourPi)
   - [Other
-    improvements](#Infraredcamerawithlivestreaming-Otherimprovements)
+    improvements](#Otherimprovements)
       - [Start the application when raspberry
-        boots](#Infraredcamerawithlivestreaming-Starttheapplicationwhenraspberryboots)
+        boots](#Starttheapplicationwhenraspberryboots)
       - [Get IP address by email (dynamic ip
-        networks)](#Infraredcamerawithlivestreaming-GetIPaddressbyemail\(dynamicipnetworks\))
+        networks)](#GetIPaddressbyemail\(dynamicipnetworks\))
       - [Communicating with your raspberry pi
-        remotely ](#Infraredcamerawithlivestreaming-Communicatingwithyourraspberrypiremotely)
+        remotely ](#Communicatingwithyourraspberrypiremotely)
 
 </div>
 
