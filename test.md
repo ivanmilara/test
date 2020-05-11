@@ -4,13 +4,6 @@
 
 <div id="main-header">
 
-<div id="breadcrumb-section">
-
-1.  <span>[Fab Lab activities](index.html)</span>
-2.  <span>[Tutorials](Tutorials_73535691.html)</span>
-
-</div>
-
 # <span id="title-text"> Fab Lab activities : Infrared camera with live streaming </span>
 
 </div>
